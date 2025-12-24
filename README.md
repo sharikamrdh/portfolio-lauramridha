@@ -1,11 +1,4 @@
-Parfait 👍
-Voici une **version README courte, propre et professionnelle**, idéale pour un **portfolio GitHub** (lisible rapidement par un recruteur).
-
-👉 **Copie-colle directement dans `README.md`**.
-
----
-
-## 🌌 Portfolio — Laura Mridha
+## Portfolio — Laura Mridha
 
 Portfolio web personnel développé avec **React et TypeScript**, mettant en avant mon profil, mes compétences et mes projets en informatique.
 
